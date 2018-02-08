@@ -1,0 +1,17 @@
+{
+  "name": "Asch-test-dap",
+  "link": "https://github.com/AschPlatform/Asch-test-dapp1.zip",
+  "category": 1,
+  "description": "Demo of asch dapp",
+  "tags": "test",
+  "icon": "https://yourdomain.com/logo1.png",
+  "delegates": [
+    "fd58c4b01bc904c355514244514a635f4f0da0cbd631b1e620dbcf69bc7f18c9",
+    "8e11e737568561a1da0542c0aae4f55d845be0be083dd7fcbd29e624a5b4d9c7",
+    "689a7b5e1e2c0f34501009f211b7e29c2e81a46e952a40d06311a8f985278e18",
+    "7fa1b7b224eee6a4d211c28977a1fa2cf73706dddf269f352a1d3d02d2a636a0",
+    "88f272b169aa08ab22d1fe8079d3cfe7414fbadee30c2c79f3b0fa074efc2b27"
+  ],
+  "unlockDelegates": 3,
+  "type": 0
+}

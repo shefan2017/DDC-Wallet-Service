@@ -1,0 +1,23 @@
+{
+  "delegate": "8065a105c785a08757727fded3a06f8f312e73ad40f1f3502e0232ea42e67efd",
+  "height": 1,
+  "pointId": null,
+  "pointHeight": null,
+  "transactions": [
+    {
+      "fee": "0",
+      "timestamp": 0,
+      "senderPublicKey": "6671aae37f6d85838e6c41f5cdfb96cd87394425f4e6bd802d3618ddf0420db7",
+      "type": 3,
+      "args": "[\"TTS\",\"10000000000\",\"A8QCwz5Vs77UGX9YqBg9kJ6AZmsXQBC8vj\"]",
+      "signature": "f87684d7cee298f4e58f89fee3a55f67c9e9c4376804089dc3e96e64c77b7ba0cfce7688536badc80c02cd1d2c53544ccb03bfdb810c29dc065fff2b5453ea0a",
+      "id": "eccec59c23f22a0321e47eaddb2ffabcae83463c59b943482bf793a98e3851a3"
+    }
+  ],
+  "timestamp": 0,
+  "payloadLength": 99,
+  "payloadHash": "2514a28c467220d234bb00ea4b8cc473431613ff81cfb48c47cdcff7a3cc5ad8",
+  "count": 1,
+  "signature": "7121149aa4a2d9769331a67ef83ea7bba0247bfb466df23c4ada0861caec92f669ec8b22fa2c8f7b837b499614d08bb39387db2b6569095ed4f7551eff82050e",
+  "id": "2f3c841908422d76978feec05770bb8ae1502cec0535bed1755517cd88f2fe33"
+}

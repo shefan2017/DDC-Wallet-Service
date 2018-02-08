@@ -1,0 +1,14 @@
+module.exports={
+    status:{//状态
+        Aucting:0,//拍卖中
+        Aucted:1//拍卖完毕
+    },
+    code:{
+        CreateArea:1000,//创建区域
+        CreateLand:2000,//创建地块
+        JoinAuction:3000,//参与拍卖
+        AuctionEnd:3500,//拍卖结束回馈
+        AuctionEnd_getLand:3600,//拍卖到地块
+        AuctionEnd_NotGet:3700,//未拍卖到地块
+    }
+}

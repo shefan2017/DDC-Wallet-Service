@@ -1,0 +1,64 @@
+/**
+ * 拍卖记录
+ */
+console.log("==============auctions===")
+module.exports={
+    name:"auctions",
+    fields:[
+        {
+            name:"id",
+            type:"String",
+            length:"20",
+            not_null:true,
+            primart_key:true
+        },
+        {
+            name:"landId",
+            type:"String",
+            length:"20",
+            not_null:true,
+        },{
+            name:"landName",
+            type:"String",
+            length:"20",
+            not_null:true
+        },
+        {
+            name:"MaxAmount",
+            type:"Number",
+            length:"20",
+            not_null:true
+        },{
+            name:"MaxAuthorId",
+            type:"String",
+            length:"20",
+            not_null:true
+        },{
+            name:"status",
+            type:"String",
+            length:"20",
+            not_null:true,
+        },{
+            name:"begin_time",
+            type:"Number",
+            length:"20",
+            not_null:true,
+        },
+        {
+            name:"end_time",
+            type:"Number",
+            length:"20",
+            not_null:true,
+        },{
+            name:"amount",
+            type:"Number",
+            length:"20",
+            not_null:true,
+        },{
+            name:"currency",
+            type:"String",
+            length:"20",
+            not_null:true
+        }
+    ]
+}
